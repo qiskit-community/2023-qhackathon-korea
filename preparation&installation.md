@@ -8,9 +8,7 @@ Here are a list of few things to setup and get started with the hackathon! Pleas
 Please install the following software packages to get started with your hackathon submission:  
 
 ![Python](https://img.shields.io/badge/python%203.x%20>=%203.9-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Qiskit](https://img.shields.io/badge/Qiskit%200.43+-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
-![Qiskit Runtime](https://img.shields.io/badge/Qiskit-Runtime%200.11+-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white&color=6929c4)
-
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Qiskit Runtime](https://img.shields.io/badge/Qiskit-Runtime%200.11+-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white&color=6929c4) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 - Python 3.9 or later 
 - Jupyter notebook or Jupyter Lab
