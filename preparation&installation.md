@@ -76,7 +76,7 @@ References/Papers:
 - [Y. Kim et al, “Scalable error mitigation for noisy quantum circuits produces competitive expectation values”](https://arxiv.org/abs/2108.09197)
 - [N. Sundaresan et al, “Reducing unitary and spectator errors in cross resonance with optimized rotary echoes”](https://arxiv.org/pdf/2007.02925.pdf)
 
-### General
+### General Resources and installation
 
 Here are some learning resources for Qiskit:
 - [Qiskit tutorials](https://qiskit.org/documentation/tutorials.html)
