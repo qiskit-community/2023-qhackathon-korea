@@ -56,7 +56,7 @@ References/Papers:
 Here are some learning resources for problem 2:
 - [Qiskit Experiments](https://qiskit.org/ecosystem/experiments/tutorials/index.html)
 - [Qiskit Experiments: Getting Started](https://qiskit.org/ecosystem/experiments/tutorials/getting_started.html#running-your-first-experiment)
-- [RoughAmplitudeCal:  Qiskit Experiments Tutorial]("https://qiskit.org/ecosystem/experiments/stubs/qiskit_experiments.library.calibration.RoughAmplitudeCal.html#qiskit_experiments.library.calibration.RoughAmplitudeCal")
+- [RoughAmplitudeCal:  Qiskit Experiments Tutorial](https://qiskit.org/ecosystem/experiments/stubs/qiskit_experiments.library.calibration.RoughAmplitudeCal.html#qiskit_experiments.library.calibration.RoughAmplitudeCal)
 - [Quantum Optimal Control - QuTiP users guide](https://qutip.org/docs/latest/guide/guide-control.html)
 
 References/Papers:
