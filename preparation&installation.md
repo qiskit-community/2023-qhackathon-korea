@@ -82,7 +82,7 @@ Here are some learning resources for Qiskit:
 - [Qiskit tutorials](https://qiskit.org/documentation/tutorials.html)
 - [Qiskit textbook](https://qiskit.org/learn/) 
 - [Qiskit Runtime](https://qiskit.org/ecosystem/ibm-runtime/index.html)
-- Qiskit Extensions
+- Qiskit Extensions 
    - [Qiskit Experiments](https://qiskit.org/documentation/experiments/tutorials/index.html)
    - [Qiskit Dynamics](https://qiskit.org/ecosystem/dynamics/tutorials/index.html)
 
