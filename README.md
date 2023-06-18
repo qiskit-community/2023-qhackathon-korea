@@ -14,7 +14,7 @@ Check the [`preparation&installation`](preparation%26installation.md) note for i
 
 ## How do I start if I have an idea for the hackathon?   ![Github Template](https://img.shields.io/badge/github%20Template-121013?style=for-the-badge&logo=github&logoColor=white)
 
-- Open an issue using the [`new project template`](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template.
+- Open an issue using the [`new project template`](https://github.com/qiskit-community/2023-qhackathon-korea/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template.
 
 - Don't worry if your team is not complete yet.
 Tag your project with `members wanted` and describe what kind of member are your searching for in the `Members` section.
