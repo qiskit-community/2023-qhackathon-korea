@@ -79,3 +79,17 @@ Tag your project with `members wanted` and describe what kind of member are your
 | 15:00 - 17:00 | Final Team Presentations (3min/team) |
 | 17:30 - 18:00 | Judging|
 | 18:00 - 18:30 | Awards Ceremony| -->
+
+## Code of Conduct for Participation
+
+The Qiskit Hackathon Korea 2023 and the Qiskit Community team are committed to maintaining the highest level of enjoyment, accessibility, and inclusivity by maintaining an environment of respect, empathy, and compassion for others. In order to support that, we ask that each participant review the Qiskit Community Code of Conduct before the event, and be familiar with our community standards to join us in maintaining a safe and welcoming event for all.
+
+We have zero tolerance for any type of harassment, and welcome each and every attendee as you support these values and make this hackathon and the Qiskit Community a friendly and open space for everyone.
+
+[Click here to Review Qiskit Community Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md#our-pledge)
+
+Throughout the event, in the case that you may encounter any offensive behavior or violations of the Qiskit Community Code of Conduct, we encourage you to report the violation by informing Qiskit Mentor/Coaches or any of the organising team members. All reports are treated with the strictest level of confidentiality, and we have an absolute zero-tolerance policy on any form of retaliation.
+
+The events team, admins, and moderators are all here to support the event and community - so please feel comfortable reaching out directly with any questions, concerns, or reports as well.
+
+This community continues to be open, friendly, and welcoming, and with your support, we will be able to maintain that throughout this event, and also in the years to come.  Thank you!
