@@ -1,49 +1,46 @@
-# Qiskit Hackathon Korea 2022
+# Qiskit Hackathon Korea 2023 
 
-## Winners!!
+Welcome to the **Qiskit Hackathon Korea 2023 Hackathon repository**! This repository contains all the instructions, materials and resources for the 2023 QHackathon Korea which will be held on June 21 to June 23, 2023 at Samjeong Hotel, South Korea
 
-- **1st Place:** [#19 Q-urling (Quantum Curling)](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/19)
+![Qiskit](https://img.shields.io/badge/Qiskit%20Hackathon%202023-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
+  
+--- 
 
-- **2nd Place:** [#21 Predicting ground state with novel quantum descriptor of molecules using QML](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/21)
+## Things to do before the hackathon 
 
-- **3rd Place:** [#17 QITE implementation of quantum models using Qiskit](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/17)
+Check the [`preparation&installation`](preparation%26installation.md) note for instructions before the hackathon 
 
-- Honorary Mention: [#13 Implement the algorithm for the hidden shift problem and explain it!](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/13)
+![Qiskit Runtime](https://img.shields.io/badge/Qiskit-Learning%20Resources-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white&color=6929c4)
 
-- Community Choice I: [#22 Quantum cryptanalysis using Quantum Neural Network(QNN) and QML](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/22)
-- Community Choice II: [#5 Hangul 한글 characters classification by Quantum Machine Learning](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/5)
+## How do I start if I have an idea for the hackathon?   ![Github Template](https://img.shields.io/badge/github%20Template-121013?style=for-the-badge&logo=github&logoColor=white)
 
+- Open an issue using the [`new project template`](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template.
 
-
-## Things to do before the hackathon
-
-Check the [`preparation&installation`](preparation%26installation.md) note for things to do before the hackathon
-
-## I have an idea for the hackathon
-
-Open an issue using the [`new project template`](https://github.com/qiskit-community/qiskit-hackathon-korea-22/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template.
-
-Don't worry if your team is not complete yet.
+- Don't worry if your team is not complete yet.
 Tag your project with `members wanted` and describe what kind of member are your searching for in the `Members` section.
-At the beginning of the hackathon, the project should have no more than 5 members.
+- The project should have no more than 5 members.
 
-## My team is complete
 
-Ask a Qiskit coach to remove the label `members wanted`.
 
-## The project is ready. Let's hack!
+## What if my team is complete? ![GitHub](https://img.shields.io/badge/Issue%20Label-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=8B8000)
 
-After the project is defined and the team is complete, you can ask an IBMer to add the label `group ready`. This should happen before the group formation stage is finished, around noon of the first day. From this point on, you can use the issue to communicate progress as additional comments.
+- Approach or ask a Qiskit coach to remove the label `members wanted` from your issue.
 
-## The team needs a coach
+## My project plan is ready. I want to start!  ![GitHub](https://img.shields.io/badge/Ready%20To%20Start-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=g)
 
-A Qiskit coach guides and advices the team in its project.
-Also will be your contact point after the hackathon, in case that the project have a continuation.
-The team needs a coach before the final submission at the end of the hackathon.
+- After your project is defined and the team is complete, you can ask an IBMer to add the label `group ready`. This should happen before the group formation stage is finished, around noon of the first day. From this point on, you can use the issue to communicate progress as additional comments.
+
+## My team needs a coach/mentor!
+
+- There will be Qiskit coaches online and offline to guide and advice your team project.
+- They will also be your contact point after the hackathon, in case the project will have be continued on.
+- The team needs a coach before the final submission at the end of the hackathon.
 
 
 ## Hackathon Tentative Schedule
-### Day 1 Intro to Quantum
+
+- TBD
+<!-- ### Day 1 Intro to Quantum
 | Mon (Feb 7)    |  |
 | -------------- | --------------------------------- |
 | 9:30 - | Opening remarks & Orientation|
@@ -81,4 +78,4 @@ The team needs a coach before the final submission at the end of the hackathon.
 | 14:00 - 15:00 | Coding Ends, Prepare for Presentation |
 | 15:00 - 17:00 | Final Team Presentations (3min/team) |
 | 17:30 - 18:00 | Judging|
-| 18:00 - 18:30 | Awards Ceremony|
+| 18:00 - 18:30 | Awards Ceremony| -->
