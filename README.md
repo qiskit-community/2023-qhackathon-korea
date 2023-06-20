@@ -39,46 +39,7 @@ Tag your project with `members wanted` and describe what kind of member are your
 
 ## Hackathon Tentative Schedule
 
-- TBD
-<!-- ### Day 1 Intro to Quantum
-| Mon (Feb 7)    |  |
-| -------------- | --------------------------------- |
-| 9:30 - | Opening remarks & Orientation|
-| 10:00 - 11:00 | Journey in Quantum - James Weaver, IBM Quantum|
-| 11:00 - 12:00 | Getting Started - How to contribute to Qiskit - Hojun Lee, KAIST & Dayeong Kang, KNU|
-| Break | |
-| 13:00 - 14:00 | Quantum Information Theory - Hyukjoon Kwon, KIAS|
-| 14:00 - 15:00 | Quantum key distribution method and domestic case - ‪Jeonghwan Shin, KT|
-| 15:00 - 16:00 | Superconducting Circuit Design in QisKit Metal - Zlatko Minev & Thomas McConkey, IBM Quantum|
-| 16:00 - 18:00 | Project Pitcher's Time 1|
-
-### Day 2 Quantum Applications
-| Tue (Feb 8)    |  |
-| -------------- | --------------------------------- |
-| 10:00 - 11:00 | Quantum Machine Learning - Dr. Jeongho Bang, ETRI |
-| 11:00 - 12:00 | Controlling qubit with Qiskit Pulse – Naoki Kanazawa, IBM Quantum|
-| Break | |
-| 13:00 - 14:00 | Quantum Chemistry: Qiskit Nature - Yukio Kawashima, IBM Quantum|
-| 14:00 - 15:00 | Quantum Algorithms for Optimization - Takashi Imamichi, IBM Quantum|
-| 15:00 - 16:00 | Software IP and Open Source License (소프트웨어의 지식재산권과 오픈소스 라이선스) - Prof. Chul-nam Lee, CNU|
-| 16:00 - 18:00 | Project Pitcher's Time 2|
-
-### Day 3 Hackathon
-| Wed (Feb 9)    |  |
-| -------------- | --------------------------------- |
-| 09:00 - 10:00 | Team Formation Ends, Project Ideas Fixed|
-| 09:00 - 12:00 | Hackathon 1 (Coding) |
-| 12:00 - 13:30 | Break & Lunch |
-| 13:30 - 17:30 | Hackathon 2 (Coding) |
-
-### Day 4 Hackathon/Final Presentation/Awards
-| Thu (Feb 10)    |  |
-| -------------- | --------------------------------- |
-| 09:00 - 14:00 | Hackathon 3 (Take lunch break in between) |
-| 14:00 - 15:00 | Coding Ends, Prepare for Presentation |
-| 15:00 - 17:00 | Final Team Presentations (3min/team) |
-| 17:30 - 18:00 | Judging|
-| 18:00 - 18:30 | Awards Ceremony| -->
+<img src="https://qhackathon.kr/adm/data/webedit/202306161807531784457504.jpg">
 
 ## Code of Conduct for Participation
 
