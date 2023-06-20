@@ -38,8 +38,7 @@ Tag your project with `members wanted` and describe what kind of member are your
 
 
 ## Hackathon Tentative Schedule
-
-<img src="https://qhackathon.kr/adm/data/webedit/202306161807531784457504.jpg">
+![Agena](https://qhackathon.kr/adm/data/webedit/202306161807531784457504.jpg)
 
 ## Code of Conduct for Participation
 
