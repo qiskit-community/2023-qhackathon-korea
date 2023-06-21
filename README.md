@@ -17,6 +17,8 @@ Tutorial video for the hackathon for [Problem 5 - GHZ Problem](https://youtu.be/
 
 [<img src="https://github.com/qiskit-community/2023-qhackathon-korea/assets/109966025/da529945-1fe0-4b90-b0c4-3dbaad80b111" width="400"/>](https://youtu.be/CF44ueFOh7w)
 
+[Video Link](https://youtu.be/CF44ueFOh7w)
+
 ## How do I start if I have an idea for the hackathon?   ![Github Template](https://img.shields.io/badge/github%20Template-121013?style=for-the-badge&logo=github&logoColor=white)
 
 - Open an issue using the [`new project template`](https://github.com/qiskit-community/2023-qhackathon-korea/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template.
