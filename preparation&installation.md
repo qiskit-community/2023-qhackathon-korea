@@ -72,6 +72,7 @@ Here are some learning resources for problem 3:
 - [FineDragCal: Qiskit Experiments documentation](https://qiskit.org/ecosystem/experiments/stubs/qiskit_experiments.library.calibration.FineDragCal.html)
 
 References/Papers:
+- [K.Temme et al, Error mitigation for short-depth quantum circuits](https://arxiv.org/pdf/1612.02058.pdf)
 - [IBM Research: Noise amplification in Quantum Processors](https://www.ibm.com/blogs/research/2019/03/noise-amplification-quantum-processors/)
 - [Y. Kim et al, “Scalable error mitigation for noisy quantum circuits produces competitive expectation values”](https://arxiv.org/abs/2108.09197)
 - [N. Sundaresan et al, “Reducing unitary and spectator errors in cross resonance with optimized rotary echoes”](https://arxiv.org/pdf/2007.02925.pdf)
