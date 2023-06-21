@@ -45,7 +45,7 @@ Tag your project with `members wanted` and describe what kind of member are your
 
 
 ## Hackathon Tentative Schedule
-![Agena](https://qhackathon.kr/adm/data/webedit/202306161807531784457504.jpg)
+<img src="https://github.com/qiskit-community/2023-qhackathon-korea/assets/109966025/bc7d6542-91b4-431e-8cbf-b52a33192b95" width="450"/>
 
 ## Code of Conduct for Participation
 
