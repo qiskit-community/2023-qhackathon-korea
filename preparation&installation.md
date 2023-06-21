@@ -46,7 +46,7 @@ Here are some learning resources for problem 1:
 - Qiskit Runtime: [Configuring Options for Sampler](https://qiskit.org/ecosystem/ibm-runtime/how_to/error-mitigation.html#configure-sampler-with-resilience-levels)
   
 References/Papers:
-  - [Going Beyong Bell's Theorem](https://arxiv.org/abs/0712.0921)
+  - [Going Beyond Bell's Theorem](https://arxiv.org/abs/0712.0921)
   - [Bell's theorem with and without inequalities for the three-qubit Greenberger-Horne-Zeilinger and W states](https://arxiv.org/abs/quant-ph/0107146)
   - [Shuai, Shuangshuang, Na Chen, and Bin Yan. 2020. "Bidirectional Quantum Communication through the Composite GHZ-GHZ Channel"](https://www.mdpi.com/2076-3417/10/16/5500)
 
