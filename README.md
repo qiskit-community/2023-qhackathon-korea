@@ -5,6 +5,7 @@ Welcome to the **Qiskit Hackathon Korea 2023 Hackathon repository**! This reposi
 ![Qiskit](https://img.shields.io/badge/Qiskit%20Hackathon%202023-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
 IBM Mentors: Sophy Shin, Vishal Bajpe, Jaeun Kim and Kento Ueda. All IBM Quantum
+
 --- 
 
 ## Things to do before the hackathon 
