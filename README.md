@@ -3,7 +3,8 @@
 Welcome to the **Qiskit Hackathon Korea 2023 Hackathon repository**! This repository contains all the instructions, materials and resources for the 2023 QHackathon Korea which will be held on June 21 to June 23, 2023 at Samjeong Hotel, South Korea
 
 ![Qiskit](https://img.shields.io/badge/Qiskit%20Hackathon%202023-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
-  
+
+IBM Mentors: Sophy Shin, Vishal Bajpe, Jaeun Kim and Kento Ueda. All IBM Quantum
 --- 
 
 ## Things to do before the hackathon 
@@ -11,6 +12,7 @@ Welcome to the **Qiskit Hackathon Korea 2023 Hackathon repository**! This reposi
 Check the [`preparation&installation`](preparation%26installation.md) note for instructions before the hackathon 
 
 Tutorial video for the hackathon for [Problem 5 - GHZ Problem](https://youtu.be/CF44ueFOh7w)
+- Challenge topic by Jaeun Kim, Naoki Kanazawa
 
  
 ![Qiskit Runtime](https://img.shields.io/badge/Qiskit-Learning%20Resources-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white&color=6929c4)
